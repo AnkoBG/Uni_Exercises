@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\Exercise_8B\Exercise_8B\obj\Debug\Exercise_8B.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\Exercise_8B\Exercise_8B\obj\Debug\Exercise_8B.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Exercise_8B\Exercise_8B\bin\Debug\Exercise_8B.exe.config
+C:\Users\student\source\repos\Exercise_8B\Exercise_8B\bin\Debug\Exercise_8B.exe
+C:\Users\student\source\repos\Exercise_8B\Exercise_8B\bin\Debug\Exercise_8B.pdb
+C:\Users\student\source\repos\Exercise_8B\Exercise_8B\obj\Debug\Exercise_8B.exe
+C:\Users\student\source\repos\Exercise_8B\Exercise_8B\obj\Debug\Exercise_8B.pdb
+C:\Users\Meathead\Desktop\repos\Exercise_8B\Exercise_8B\bin\Debug\Exercise_8B.exe.config
+C:\Users\Meathead\Desktop\repos\Exercise_8B\Exercise_8B\obj\Debug\Exercise_8B.exe
+C:\Users\Meathead\Desktop\repos\Exercise_8B\Exercise_8B\obj\Debug\Exercise_8B.pdb
+C:\Users\Meathead\Desktop\repos\Exercise_8B\Exercise_8B\bin\Debug\Exercise_8B.exe
+C:\Users\Meathead\Desktop\repos\Exercise_8B\Exercise_8B\bin\Debug\Exercise_8B.pdb
+C:\Users\Meathead\Desktop\repos\Exercise_8B\Exercise_8B\obj\Debug\Exercise_8B.csprojResolveAssemblyReference.cache
