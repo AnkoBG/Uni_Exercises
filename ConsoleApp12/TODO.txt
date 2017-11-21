@@ -1,0 +1,1 @@
+Find a way to reset both arrays' data when starting a new loop of the program.
