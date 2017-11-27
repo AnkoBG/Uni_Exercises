@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\Exercise_9B\Exercise_9B\bin\Debug\Exercise_9B.exe.config
+C:\Users\student\source\repos\Exercise_9B\Exercise_9B\bin\Debug\Exercise_9B.exe
+C:\Users\student\source\repos\Exercise_9B\Exercise_9B\bin\Debug\Exercise_9B.pdb
+C:\Users\student\source\repos\Exercise_9B\Exercise_9B\obj\Debug\Exercise_9B.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\Exercise_9B\Exercise_9B\obj\Debug\Exercise_9B.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Exercise_9B\Exercise_9B\obj\Debug\Exercise_9B.exe
+C:\Users\student\source\repos\Exercise_9B\Exercise_9B\obj\Debug\Exercise_9B.pdb
