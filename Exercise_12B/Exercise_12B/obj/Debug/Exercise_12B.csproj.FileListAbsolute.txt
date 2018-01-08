@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\Exercise_12B\Exercise_12B\bin\Debug\Exercise_12B.exe.config
+C:\Users\student\source\repos\Exercise_12B\Exercise_12B\bin\Debug\Exercise_12B.exe
+C:\Users\student\source\repos\Exercise_12B\Exercise_12B\bin\Debug\Exercise_12B.pdb
+C:\Users\student\source\repos\Exercise_12B\Exercise_12B\obj\Debug\Exercise_12B.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\Exercise_12B\Exercise_12B\obj\Debug\Exercise_12B.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Exercise_12B\Exercise_12B\obj\Debug\Exercise_12B.exe
+C:\Users\student\source\repos\Exercise_12B\Exercise_12B\obj\Debug\Exercise_12B.pdb
